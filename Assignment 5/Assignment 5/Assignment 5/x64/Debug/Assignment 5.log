@@ -1,0 +1,5 @@
+﻿  Assignment 5.cpp
+Z:\VisualStudio 2022 preview saves\Data Structure 1\Assignment 5\Assignment 5\Assignment 5.cpp(408,19): warning C4305: '=': truncation from 'int' to 'char'
+Z:\VisualStudio 2022 preview saves\Data Structure 1\Assignment 5\Assignment 5\Assignment 5.cpp(408,19): warning C4309: '=': truncation of constant value
+Z:\VisualStudio 2022 preview saves\Data Structure 1\Assignment 5\Assignment 5\Assignment 5.cpp(663,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Assignment 5.vcxproj -> Z:\VisualStudio 2022 preview saves\Data Structure 1\Assignment 5\Assignment 5\x64\Debug\Assignment 5.exe

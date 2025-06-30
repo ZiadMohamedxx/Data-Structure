@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "Z:\\VisualStudio 2022 preview saves\\Data Structure 1\\Second Assigment Data Structure\\Q.4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A46E4E47-497B-4549-88E9-0C67A9321D4D}|Q.4.vcxproj|Z:\\VisualStudio 2022 preview saves\\Data Structure 1\\Second Assigment Data Structure\\Q.4\\Q.4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A46E4E47-497B-4549-88E9-0C67A9321D4D}|Q.4.vcxproj|solutionrelative:Q.4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Q.4.cpp",
+              "DocumentMoniker": "Z:\\VisualStudio 2022 preview saves\\Data Structure 1\\Second Assigment Data Structure\\Q.4\\Q.4.cpp",
+              "RelativeDocumentMoniker": "Q.4.cpp",
+              "ToolTip": "Z:\\VisualStudio 2022 preview saves\\Data Structure 1\\Second Assigment Data Structure\\Q.4\\Q.4.cpp",
+              "RelativeToolTip": "Q.4.cpp",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAAAKYAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-23T19:00:51.341Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

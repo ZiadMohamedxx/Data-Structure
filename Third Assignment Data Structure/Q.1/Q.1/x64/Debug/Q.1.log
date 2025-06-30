@@ -1,0 +1,5 @@
+﻿  Q.1.cpp
+Z:\VisualStudio 2022 preview saves\Data Structure 1\Third Assignment Data Structure\Q.1\Q.1.cpp(83,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+Z:\VisualStudio 2022 preview saves\Data Structure 1\Third Assignment Data Structure\Q.1\Q.1.cpp(85,9): warning C4101: 'ptrav': unreferenced local variable
+Z:\VisualStudio 2022 preview saves\Data Structure 1\Third Assignment Data Structure\Q.1\Q.1.cpp(86,9): warning C4101: 'ptrav2': unreferenced local variable
+  Q.1.vcxproj -> Z:\VisualStudio 2022 preview saves\Data Structure 1\Third Assignment Data Structure\Q.1\x64\Debug\Q.1.exe
